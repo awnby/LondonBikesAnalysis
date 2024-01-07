@@ -1,1 +1,2 @@
 # LondonBikesAnalysis
+Hello! Here's a mini project I worked on alongside this tutorial (https://www.youtube.com/watch?v=CmOAXW24y2Y&t=300s), to get more familiar with Tableau. I'm putting this repository up to showcase the work, and possibly working on this further into the future. In this tutorial, there was a main focus on the Tableau aspect of things, and not so much the analysis. So, I would like to update the ipynb file attached to this repo, adding more data analysis to showcase my skills in that area. 
